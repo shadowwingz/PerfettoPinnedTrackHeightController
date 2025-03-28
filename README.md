@@ -4,6 +4,8 @@
 
 一个用于增强 [Perfetto Trace Viewer](https://ui.perfetto.dev/) 的油猴脚本，提供实时调整 Pinned Track 区域高度的功能。
 
+[Perfetto Pin 区域高度调节工具 — 让性能分析更高效](https://www.wolai.com/tTBehPGCLqHvopuUUujX6M)
+
 ## 功能特性
 
 - 📏 动态调整 Pinned Track 区域高度（10% - 90%）
