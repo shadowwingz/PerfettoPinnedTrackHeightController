@@ -1,8 +1,20 @@
 // ==UserScript==
 // @name         Perfetto Pin 区域高度调整
 // @namespace    https://github.com/shadowwingz
-// @version      0.1
-// @description  调整 Perfetto Viewer 的 Pinned 区域高度
+// @version      0.2
+// @description       调整 Perfetto Viewer 的 Pinned 区域高度，提供可视化控制按钮和实时比例显示
+// @description:en    Adjust the height of Pinned area in Perfetto Viewer with visual controls and real-time percentage display
+// @description:de    Passen Sie die Höhe des fixierten Bereichs im Perfetto Viewer mit visuellen Steuerelementen und Echtzeit-Prozentsatzanzeige an
+// @description:es    Ajuste la altura del área fijada en Perfetto Viewer con controles visuales y visualización de porcentaje en tiempo real
+// @description:fr    Ajustez la hauteur de la zone épinglée dans Perfetto Viewer avec des contrôles visuels et un affichage en temps réel du pourcentage
+// @description:zh-CN 调整 Perfetto Viewer 的固定区域高度，提供可视化控制按钮和实时比例显示
+// @description:ru    Настройте высоту закрепленной области в Perfetto Viewer с визуальными элементами управления и отображением процентов в реальном времени
+// @description:ja    Perfetto Viewerのピン留め領域の高さを視覚的コントロールとリアルタイムパーセンテージ表示で調整
+// @description:pt-BR Ajuste a altura da área fixada no Perfetto Viewer com controles visuais e exibição de porcentagem em tempo real
+// @description:hi    Perfetto Viewer में पिन किए गए क्षेत्र की ऊंचाई को विज़ुअल नियंत्रण और रीयल-टाइम प्रतिशत प्रदर्शन के साथ समायोजित करें
+// @description:ar    اضبط ارتفاع المنطقة المثبتة في Perfetto Viewer باستخدام عناصر تحكم مرئية وعرض النسبة المئوية في الوقت الفعلي
+// @description:it    Regola l'altezza dell'area bloccata in Perfetto Viewer con controlli visivi e visualizzazione della percentuale in tempo reale
+// @description:ko    시각적 컨트롤과 실시간 백분율 표시로 Perfetto Viewer의 고정 영역 높이 조정
 // @author       shadowwingz
 // @match        https://ui.perfetto.dev/*
 // @grant        GM_addStyle
